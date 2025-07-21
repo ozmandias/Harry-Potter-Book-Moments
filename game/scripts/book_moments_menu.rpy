@@ -20,17 +20,20 @@ label book_moments_menu:
         "Select any book..."
 
         "Harry Potter and the Philosopher's Stone":
-            "None at the moment..."
-            jump book_moments_menu
+            # "None at the moment..."
+            # jump book_moments_menu
+            jump phiolsophers_stone_menu
         "Harry Potter and the Chamber of Secrets":
             "None at the moment..."
             jump book_moments_menu
         "Harry Potter and the Prisoner of Azkaban":
-            "None at the moment..."
-            jump book_moments_menu
+            # "None at the moment..."
+            # jump book_moments_menu
+            jump prisoner_of_azkaban_menu
         "Harry Potter and the Goblet of Fire":
-            "None at the moment..."
-            jump book_moments_menu
+            # "None at the moment..."
+            # jump book_moments_menu
+            jump goblet_of_fire_menu
         "Harry Potter and the Order of the Phoenix":
             # "None at the moment..."
             # jump book_moments_menu
@@ -38,5 +41,6 @@ label book_moments_menu:
         "Harry Potter and the Half-Blood Prince":
             jump half_blood_prince_menu
         "Harry Potter and the Deathly Hallows":
-            "None at the moment..."
-            jump book_moments_menu
+            # "None at the moment..."
+            # jump book_moments_menu
+            jump deathly_hallows_menu
