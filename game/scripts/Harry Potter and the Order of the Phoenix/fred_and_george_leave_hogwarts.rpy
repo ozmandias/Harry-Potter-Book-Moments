@@ -78,7 +78,7 @@ label fred_and_george_leave_hogwarts:
     fred "Our new premises!"
     hide fred_and_george_leave_hogwarts_8
 
-    show fred_and_george_leave_hogwarts_9 at truecenter with dissolve
+    show fred_and_george_leave_hogwarts_9 at top with dissolve
     # pause
     george "Special discounts to Hogwarts students who swear they’re going to use our products to get rid of this old bat,"
     "added George, pointing at Professor Umbridge."
@@ -86,7 +86,7 @@ label fred_and_george_leave_hogwarts:
     "shrieked Umbridge, but it was too late."
     hide fred_and_george_leave_hogwarts_9
 
-    show fred_and_george_leave_hogwarts_10 at truecenter with dissolve
+    show fred_and_george_leave_hogwarts_10 at top with dissolve
     # pause
     "As the Inquisitorial Squad closed in, Fred and George kicked off from the floor, shooting fifteen feet into the air, the iron peg swinging dangerously below."
     "Fred looked across the hall at the poltergeist bobbing on his level above the crowd."

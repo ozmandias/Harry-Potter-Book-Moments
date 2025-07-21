@@ -58,26 +58,26 @@ label harry_vs_draco_duel_in_boys_bathroom:
     "Malfoy gasped and gulped and then, with a great shudder, looked up into the cracked mirror and saw Harry staring at him over his shoulder."
     hide harry_vs_draco_duel_in_boys_bathroom_5
 
-    show harry_vs_draco_duel_in_boys_bathroom_6 at truecenter with dissolve
+    show harry_vs_draco_duel_in_boys_bathroom_6 at top with dissolve
     # pause
     "Malfoy wheeled around, drawing his wand."
     "Instinctively, Harry pulled out his own."
     "Malfoy’s hex missed Harry by inches, shattering the lamp on the wall beside him;"
     hide harry_vs_draco_duel_in_boys_bathroom_6
 
-    show harry_vs_draco_duel_in_boys_bathroom_7 at truecenter with dissolve
+    show harry_vs_draco_duel_in_boys_bathroom_7 at top with dissolve
     # pause
     "Harry threw himself sideways, thought Levicorpus! and flicked his wand, but Malfoy blocked the jinx and raised his wand for another —"
     hide harry_vs_draco_duel_in_boys_bathroom_7
 
-    show harry_vs_draco_duel_in_boys_bathroom_8 at truecenter with dissolve
+    show harry_vs_draco_duel_in_boys_bathroom_8 at top with dissolve
     # pause
     myrtle "No! No! Stop it!"
     "squealed Moaning Myrtle, her voice echoing loudly around the tiled room."
     myrtle "Stop! STOP!"
     hide harry_vs_draco_duel_in_boys_bathroom_8
 
-    show harry_vs_draco_duel_in_boys_bathroom_9 at truecenter with dissolve
+    show harry_vs_draco_duel_in_boys_bathroom_9 at top with dissolve
     # pause
     "There was a loud bang and the bin behind Harry exploded;"
     "Harry attempted a Leg-Locker Curse that backfired off the wall behind Malfoy’s ear and smashed the cistern beneath Moaning Myrtle, who screamed loudly;"
@@ -87,7 +87,7 @@ label harry_vs_draco_duel_in_boys_bathroom:
     "bellowed Harry from the floor, waving his wand wildly."
     hide harry_vs_draco_duel_in_boys_bathroom_9
 
-    show harry_vs_draco_duel_in_boys_bathroom_10 at truecenter with dissolve
+    show harry_vs_draco_duel_in_boys_bathroom_10 at top with dissolve
     # pause
     "Blood spurted from Malfoy’s face and chest as though he had been slashed with an invisible sword."
     "He staggered backward and collapsed onto the waterlogged floor with a great splash, his wand falling from his limp right hand."

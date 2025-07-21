@@ -47,7 +47,7 @@ label harry_being_sent_to_professor_mcgonagalls_office:
     "He held out the note from Professor Umbridge."
     hide harry_being_sent_to_professor_mcgonagalls_office_4
 
-    show harry_being_sent_to_professor_mcgonagalls_office_5 at truecenter with dissolve
+    show harry_being_sent_to_professor_mcgonagalls_office_5 at top with dissolve
     # pause
     "Professor McGonagall took it from him, frowning, slit it open with a tap of her wand, stretched it out, and began to read."
     "Her eyes zoomed from side to side behind their square spectacles as she read what Umbridge had written, and with each line they became narrower."
@@ -58,7 +58,7 @@ label harry_being_sent_to_professor_mcgonagalls_office:
     minerva "Is this true?"
     hide harry_being_sent_to_professor_mcgonagalls_office_5
 
-    show harry_being_sent_to_professor_mcgonagalls_office_6 at truecenter with dissolve
+    show harry_being_sent_to_professor_mcgonagalls_office_6 at top with dissolve
     # pause
     harry "Is what true?"
     "Harry asked, rather more aggressively than he had intended."
@@ -67,7 +67,7 @@ label harry_being_sent_to_professor_mcgonagalls_office:
     minerva "Is it true that you shouted at Professor Umbridge?"
     hide harry_being_sent_to_professor_mcgonagalls_office_6
 
-    show harry_being_sent_to_professor_mcgonagalls_office_7 at truecenter with dissolve
+    show harry_being_sent_to_professor_mcgonagalls_office_7 at top with dissolve
     # pause
     harry "Yes,"
     "said Harry."
@@ -75,14 +75,14 @@ label harry_being_sent_to_professor_mcgonagalls_office:
     harry "Yes."
     hide harry_being_sent_to_professor_mcgonagalls_office_7
 
-    show harry_being_sent_to_professor_mcgonagalls_office_8 at truecenter with dissolve
+    show harry_being_sent_to_professor_mcgonagalls_office_8 at top with dissolve
     # pause
     minerva "You told her He-Who-Must-Not-Be-Named is back?"
     harry "Yes."
     "Professor McGonagall sat down behind her desk, frowning at Harry."
     hide harry_being_sent_to_professor_mcgonagalls_office_8
 
-    show harry_being_sent_to_professor_mcgonagalls_office_9 at truecenter with dissolve
+    show harry_being_sent_to_professor_mcgonagalls_office_9 at top with dissolve
     # pause
     "Then she said,"
     minerva "Have a biscuit, Potter."
@@ -90,7 +90,7 @@ label harry_being_sent_to_professor_mcgonagalls_office:
     minerva "Have a biscuit,"
     hide harry_being_sent_to_professor_mcgonagalls_office_9
 
-    show harry_being_sent_to_professor_mcgonagalls_office_10 at truecenter with dissolve
+    show harry_being_sent_to_professor_mcgonagalls_office_10 at top with dissolve
     # pause
     "she repeated impatiently, indicating a tartan tin of cookies lying on top of one of the piles of papers on her desk."
     minerva "And sit down."

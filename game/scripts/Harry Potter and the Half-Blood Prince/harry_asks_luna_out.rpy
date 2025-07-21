@@ -71,7 +71,7 @@ label harry_asks_luna_out:
     harry "So have you had a good term?"
     hide harry_asks_luna_out_7
 
-    show harry_asks_luna_out_8 at truecenter with dissolve
+    show harry_asks_luna_out_8 at top with dissolve
     # pause
     luna "Oh, it’s been all right,"
     "said Luna."
@@ -81,7 +81,7 @@ label harry_asks_luna_out:
     "He heard himself say them as though it were a stranger speaking."
     hide harry_asks_luna_out_8
 
-    show harry_asks_luna_out_9 at truecenter with dissolve
+    show harry_asks_luna_out_9 at top with dissolve
     # pause
     "Luna turned her protuberant eyes upon him in surprise."
     luna "Slughorn’s party? With you?"
@@ -93,7 +93,7 @@ label harry_asks_luna_out:
     "He was already half hoping that she didn’t want to."
     hide harry_asks_luna_out_9
 
-    show harry_asks_luna_out_10 at truecenter with dissolve
+    show harry_asks_luna_out_10 at top with dissolve
     # pause
     luna "Oh, no, I’d love to go with you as friends!"
     "said Luna, beaming as he had never seen her beam before."
