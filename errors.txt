@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/professor_mcgonagall_vs_professor_umbridge.rpy", line 58: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+        minerva "I will assist you to become an Auror if it is the last thing I do! If I have to coach you nightly I will make sure you achieve the required results!”
+
+Ren'Py Version: Ren'Py 8.3.7.25031702
+Sat Jun  7 15:55:16 2025
