@@ -2,9 +2,9 @@ label  order_of_the_phoenix_menu:
     menu:
         "Pick a moment to view..."
 
-        "Harry being sent to Professor Mcgonagall's office":
+        "Professor Mcgonagall treats Harry biscuits for shouting at Umbridge":
             hide map_of_hogwarts_resize
-            jump harry_being_sent_to_professor_mcgonagalls_office
+            jump professor_mcgonagall_treats_harry_biscuits
 
         "Professor Mcgonagall vs Professor Umbridge":
             hide map_of_hogwarts_resize

@@ -22,9 +22,9 @@ image harry_being_sent_to_professor_mcgonagalls_office_10:
     "Harry Potter and the Order of the Phoenix/Harry being sent to Professor Mcgongall's office/harry_being_sent_to_professor_mcgonagalls_office_10.png"
     zoom 0.5
 
-label harry_being_sent_to_professor_mcgonagalls_office:
+label professor_mcgonagall_treats_harry_biscuits:
     show harry_being_sent_to_professor_mcgonagalls_office_1 at truecenter with dissolve
-    "Harry being sent to Professor Mcgonagall's office"
+    "Professor Mcgonagall treats Harry biscuits for shouting at Umbridge"
     "A door to his left flew open and Professor McGonagall emerged from her office looking grim and slightly harassed."
     minerva "What on earth are you shouting about, Potter?"
     "she snapped, as Peeves cackled gleefully and zoomed out of sight."

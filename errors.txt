@@ -2,9 +2,13 @@
 errors listed below, and try again.
 
 
-File "game/professor_mcgonagall_vs_professor_umbridge.rpy", line 58: is not terminated with a newline. (Check strings and parenthesis.)
-(Perhaps you left out a " at the end of the first line.)
-        minerva "I will assist you to become an Auror if it is the last thing I do! If I have to coach you nightly I will make sure you achieve the required results!”
+File "game/scripts/Harry Potter and the Philosopher's Stone/hermione_solves_potion_riddle.rpy", line 2: expected 'comma or end of line' not found.
+    filename: "Harry Potter and the Philosopher's Stone/Hermione solves Potion riddle/hermione_solves_potion_riddle_9.jpg",
+            ^
+
+File "game/scripts/Harry Potter and the Philosopher's Stone/hermione_solves_potion_riddle.rpy", line 6: expected 'comma or end of line' not found.
+    filename: "Harry Potter and the Philosopher's Stone/Hermione solves Potion riddle/hermione_solves_potion_riddle_10.jpg",
+            ^
 
 Ren'Py Version: Ren'Py 8.3.7.25031702
-Sat Jun  7 15:55:16 2025
+Tue Jul 22 10:30:51 2025
