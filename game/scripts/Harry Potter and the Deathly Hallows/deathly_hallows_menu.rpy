@@ -5,7 +5,7 @@ label deathly_hallows_menu:
         "Harry attacks Amycus Carrow with Crucio":
             "Available soon..."
             jump deathly_hallows_menu
-        "Fred Weasley's death":
+        "Hermione kisses Ron":
             "Not available yet..."
             jump deathly_hallows_menu
         "Ginny kisses Harry":
