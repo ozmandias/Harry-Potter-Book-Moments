@@ -15,6 +15,8 @@ define luna = Character("Luna", color="#ce42f5")
 
 define neville = Character("Neville", color="#ffc26e")
 
+define sirius = Character("Sirius", color="#57826d")
+
 define draco = Character("Draco", color="#42f59e")
 
 define fred = Character("Fred", color="#fc6603")
@@ -23,11 +25,13 @@ define george = Character("George", color="#fc6603")
 
 define fred_and_george = Character("{color=#fc6603}Fred{/color} {color=#fc6603}and{/color} {color=#fc6603}George{/color}")
 
-define minerva = Character("Prof. Minerva", color="#639942")
+define mcgonagall = Character("Prof. Mcgonagall", color="#639942")
 
-define dolores = Character("Prof. Dolores", color="#f065b1")
+define hagrid = Character("Hagrid", color="#a35a00")
 
-define argus = Character("Argus", color="#768c50")
+define umbridge = Character("Prof. Umbridge", color="#f065b1")
+
+define filch = Character("Argus Filch", color="#768c50")
 
 # The game starts here.
 

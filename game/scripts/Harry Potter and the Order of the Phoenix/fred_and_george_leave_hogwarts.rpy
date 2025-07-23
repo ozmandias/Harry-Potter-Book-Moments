@@ -9,20 +9,20 @@ image fred_and_george_leave_hogwarts_10:
 label fred_and_george_leave_hogwarts:
     show fred_and_george_leave_hogwarts_1 at truecenter with dissolve
     "Fred and George leave Hogwarts"
-    dolores "So!"
+    umbridge "So!"
     "said Umbridge triumphantly, whom Harry realized was standing just a few stairs in front of him, once more looking down upon her prey."
-    dolores "So . . . you think it amusing to turn a school corridor into a swamp, do you?"
+    umbridge "So . . . you think it amusing to turn a school corridor into a swamp, do you?"
     fred "Pretty amusing, yeah"
     "said Fred, looking back up at her without the slightest sign of fear."
     "Filch elbowed his way closer to Umbridge, almost crying with happiness."
-    argus "I’ve got the form, Headmistress,"
+    filch "I’ve got the form, Headmistress,"
     "he said hoarsely, waving the piece of parchment Harry had just seen him take from her desk."
-    argus "I’ve got the form and I’ve got the whips waiting. . . . Oh, let me do it now. . . ."
-    dolores "Very good, Argus,"
+    filch "I’ve got the form and I’ve got the whips waiting. . . . Oh, let me do it now. . . ."
+    umbridge "Very good, Filch,"
     "she said."
-    dolores "You two,"
+    umbridge "You two,"
     "she went on, gazing down at Fred and George,"
-    dolores "are about to learn what happens to wrongdoers in my school."
+    umbridge "are about to learn what happens to wrongdoers in my school."
     hide fred_and_george_leave_hogwarts_1
 
     show fred_and_george_leave_hogwarts_2 at truecenter with dissolve
@@ -82,7 +82,7 @@ label fred_and_george_leave_hogwarts:
     # pause
     george "Special discounts to Hogwarts students who swear they’re going to use our products to get rid of this old bat,"
     "added George, pointing at Professor Umbridge."
-    dolores "STOP THEM!"
+    umbridge "STOP THEM!"
     "shrieked Umbridge, but it was too late."
     hide fred_and_george_leave_hogwarts_9
 

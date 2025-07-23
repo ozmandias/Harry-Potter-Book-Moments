@@ -2,13 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/scripts/Harry Potter and the Philosopher's Stone/hermione_solves_potion_riddle.rpy", line 2: expected 'comma or end of line' not found.
-    filename: "Harry Potter and the Philosopher's Stone/Hermione solves Potion riddle/hermione_solves_potion_riddle_9.jpg",
-            ^
-
-File "game/scripts/Harry Potter and the Philosopher's Stone/hermione_solves_potion_riddle.rpy", line 6: expected 'comma or end of line' not found.
-    filename: "Harry Potter and the Philosopher's Stone/Hermione solves Potion riddle/hermione_solves_potion_riddle_10.jpg",
-            ^
+File "game/scripts/book_moments_menu.rpy", line 47: expected statement.
+    hello_world()
+                 ^
 
 Ren'Py Version: Ren'Py 8.3.7.25031702
-Tue Jul 22 10:30:51 2025
+Wed Jul 23 10:22:35 2025

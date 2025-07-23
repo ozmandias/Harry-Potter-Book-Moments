@@ -44,3 +44,7 @@ label book_moments_menu:
             # "None at the moment..."
             # jump book_moments_menu
             jump deathly_hallows_menu
+        "<main menu>":
+            python:
+                # renpy.quit(relaunch=False)
+                renpy.quit_event()
