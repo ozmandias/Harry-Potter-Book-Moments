@@ -31,6 +31,12 @@ define hagrid = Character("Hagrid", color="#a35a00")
 
 define umbridge = Character("Prof. Umbridge", color="#f065b1")
 
+define pravati = Character("Pravati", color="#f5426f")
+
+define harry_and_pravati = Character("{color=#ffd700}Harry{/color} {color=#ffffff}and{/color} {color=#f5426f}Pravati{/color}")
+
+define padma = Character("Padma", color="#42f5d1")
+
 define filch = Character("Argus Filch", color="#768c50")
 
 # The game starts here.

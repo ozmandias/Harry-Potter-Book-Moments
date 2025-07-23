@@ -5,8 +5,11 @@ label goblet_of_fire_menu:
         "Brawl about true Hogwarts Champion":
             "Not available yet..."
             jump goblet_of_fire_menu
+            # hide map_of_hogwarts_resize
         "The Yule Ball":
-            "Not available yet..."
-            jump goblet_of_fire_menu
+            # "Not available yet..."
+            # jump goblet_of_fire_menu
+            hide map_of_hogwarts_resize
+            jump the_yule_ball
         "<back>":
             jump book_moments_menu
