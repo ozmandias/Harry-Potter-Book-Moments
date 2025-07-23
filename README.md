@@ -16,7 +16,7 @@ Harry Potter and the Prisoner of Azkaban scenes: Hermione slaps Malfoy, Sirius s
 
 Harry Potter and the Goblet of Fire scenes: The Yule Ball
 
-Harry Potter and the Order of Phoenix scenes: Professor Mcgonagall treats Harry biscuits for shouting at Umbridge, Professor Mcgonagall vs Professor Umbridge, Fred and George leave Hogwarts
+Harry Potter and the Order of the Phoenix scenes: Professor Mcgonagall treats Harry biscuits for shouting at Umbridge, Professor Mcgonagall vs Professor Umbridge, Fred and George leave Hogwarts
 
 Harry Potter and the Half-Blood Prince scenes: Harry asks Luna out, Harry vs Draco, Harry kisses Ginny
 
