@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/scripts/book_moments_menu.rpy", line 47: expected statement.
-    hello_world()
-                 ^
+File "game/scripts/Harry Potter and the Goblet of Fire/brawl_about_true_hogwarts_champion.rpy", line 49: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+        draco "I’ve just washed it, you see;
 
 Ren'Py Version: Ren'Py 8.3.7.25031702
-Wed Jul 23 10:22:35 2025
+Thu Jul 24 10:05:24 2025

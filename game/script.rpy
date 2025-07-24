@@ -39,6 +39,8 @@ define padma = Character("Padma", color="#42f5d1")
 
 define filch = Character("Argus Filch", color="#768c50")
 
+define amycus = Character("Amycus", color="#6b662e")
+
 # The game starts here.
 
 label start:

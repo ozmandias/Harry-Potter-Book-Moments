@@ -1,26 +1,24 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/scripts/book_moments_menu.rpy", line 48, in script
-    python:
-  File "game/scripts/book_moments_menu.rpy", line 49, in <module>
-    renpy.quit(confirm=True)
-TypeError: quit() got an unexpected keyword argument 'confirm'
+  File "game/scripts/Harry Potter and the Goblet of Fire/brawl_about_true_hogwarts_champion.rpy", line 45, in script
+    drco "Want one, Granger?"
+Exception: Sayer 'drco' is not defined.
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/scripts/book_moments_menu.rpy", line 48, in script
-    python:
-  File "/Applications/renpy-8.3.7-sdk/renpy/ast.py", line 834, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "/Applications/renpy-8.3.7-sdk/renpy/python.py", line 1187, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-  File "game/scripts/book_moments_menu.rpy", line 49, in <module>
-    renpy.quit(confirm=True)
-TypeError: quit() got an unexpected keyword argument 'confirm'
+  File "game/scripts/Harry Potter and the Goblet of Fire/brawl_about_true_hogwarts_champion.rpy", line 45, in script
+    drco "Want one, Granger?"
+  File "/Applications/renpy-8.3.7-sdk/renpy/ast.py", line 2586, in execute
+    Say.execute(self)
+  File "/Applications/renpy-8.3.7-sdk/renpy/ast.py", line 583, in execute
+    who = eval_who(self.who, self.who_fast)
+  File "/Applications/renpy-8.3.7-sdk/renpy/ast.py", line 472, in eval_who
+    raise Exception("Sayer '%s' is not defined." % who)
+Exception: Sayer 'drco' is not defined.
 
 macOS-10.16-x86_64-i386-64bit x86_64
 Ren'Py 8.3.7.25031702
 Harry Potter Book Moments 1.0
-Wed Jul 23 10:34:52 2025
+Thu Jul 24 10:06:37 2025
