@@ -39,4 +39,4 @@ None at the moment
 
 ## Platforms
 
-Windows, Mac, Android, iOS(Coming soon)
+Web(HTML 5)
