@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/scripts/Harry Potter and the Goblet of Fire/brawl_about_true_hogwarts_champion.rpy", line 49: is not terminated with a newline. (Check strings and parenthesis.)
-(Perhaps you left out a " at the end of the first line.)
-        draco "I’ve just washed it, you see;
+File "game/scripts/custom_screens.rpy", line 3: Line is indented, but the preceding tag statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    zorder 1
+    ^
 
 Ren'Py Version: Ren'Py 8.3.7.25031702
-Thu Jul 24 10:05:24 2025
+Sat Aug  9 12:25:43 2025
